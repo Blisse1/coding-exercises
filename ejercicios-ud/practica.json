@@ -1,0 +1,33 @@
+{
+"Nombre" : "Andres",
+"Apellido" : "Morales",
+"Edad" : 20,
+"Hobbies" : [
+    {
+        "primerHobbie": "Lectura",
+        "segundoHobbie" : "Aprender"
+    }
+]
+"Contacto": {
+    "Correo": "a@a.com",
+    "Telefono" : {
+        "Celular" : 3192654454,
+        "Fijo" : null,
+        "Direccion" : null
+    }
+}
+}
+
+{
+"Productos" : [
+    {
+        "Nombre": null,
+        "Marca": null,
+        "Valor" : {
+            "Valor_Compra": null,
+            "Valor_Venta": null
+        },
+        "Tipo": null
+    }
+]
+}
